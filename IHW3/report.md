@@ -17,7 +17,15 @@
 
 ## Улучшенная реализация
 ### Были созданы подпрограммы с передаваемыми параментрами и локальными переменными (process_data, int_to_str, reverse_string, get_string_length)
+![Пример картинки](img/process_data.png)
 
+![Пример картинки](img/int-to-str.png)
+
+![Пример картинки](img/reverse_str.png)
+
+![Пример картинки](img/str_len.png)
 ### Так же были созданы подпрограммы read_data_from_file и write_to_file для чтения и записи данных из файлов
+![Пример картинки](img/read_data.png)
 
+![Пример картинки](img/write.png)
 
